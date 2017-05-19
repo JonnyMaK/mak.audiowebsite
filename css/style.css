@@ -1,0 +1,76 @@
+.neve {
+    height: 550px;
+    background-image: url("../image/Neve Console.jpg");
+    background-size: 100%;
+}
+
+.neve .container {
+    padding-top: 120px;
+    padding-left: 50px;
+}
+
+.neve .col-md-6 {
+    
+    vertical-align: middle;
+    
+}
+
+.neve .patron{
+    padding-top: 25px;
+}
+
+.navbar-nav {
+    padding-right: 25px;
+    
+}
+
+.startlearning {
+    background-color: lightgrey;
+}
+
+.startlearning .container{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.thenursery {
+    background-color: #00b4cc;
+}
+
+.thenursery .container {
+    text-align: center;
+    background-size: 100%;
+}
+
+.what {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    background-color: lightgrey;
+}
+
+.what .row {
+    padding-top: 50px;
+    padding-bottom: 25px; 
+}
+
+.footer {
+    height: 550;
+    background-image: url(../Image/USS%20Edmonton.jpg);
+    background-size: 100%;
+}
+
+.footer .container {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.footer ul li a {
+    color:white;
+}
+
+.copyright {
+    text-align: center
+}
